@@ -1,0 +1,12 @@
+{
+  "name": "mdWiki",
+  "file": "wiki",
+  "version": "0.1.0",
+  "description": "a wiki project write by markdown",
+  "hash": "60739e38",
+  "license": "MIT",
+  "devDependencies": {
+    "pm2": "~2.0.18",
+    "showdown": "~1.4.3"
+  }
+}
