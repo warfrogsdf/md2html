@@ -8,6 +8,6 @@
   "devDependencies": {
     "pm2": "~2.0.18",
     "showdown": "~1.4.3",
-    "algorithm-javascript": "~1.0.1"
+    "algorithm-javascript": "~1.0.2"
   }
 }
